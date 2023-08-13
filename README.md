@@ -1,2 +1,6 @@
-# projetos_EDA
-Projetos com ênfase em análise exploratória de dados
+# Projetos DataSciente
+Projetos de portfólio
+
+## Sobre
+
+Projetos e textes em https://www.linkedin.com/in/jean-paul-dosher/
