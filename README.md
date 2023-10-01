@@ -1,6 +1,7 @@
 # Projetos DataSciente
-Projetos de portfólio
+Projetos de portfólio sobre análise exploratório da dados
+(EN) Portfolio projects on exploratory data analysis
 
-## Sobre
+## Sobre/About
 
-Projetos e textos em https://www.linkedin.com/in/jean-paul-dosher/
+Projetos e textos em https://www.linkedin.com/in/jean-paul-dosher/ or https://medium.com/@jean.dosher
